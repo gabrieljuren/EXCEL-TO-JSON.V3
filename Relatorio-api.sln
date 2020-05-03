@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relatorio-api", "Relatorio-api\Relatorio-api.csproj", "{615BD6B0-4223-427D-9831-E791AB10AF50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615BD6B0-4223-427D-9831-E791AB10AF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615BD6B0-4223-427D-9831-E791AB10AF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615BD6B0-4223-427D-9831-E791AB10AF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615BD6B0-4223-427D-9831-E791AB10AF50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99289C5-5028-4294-9271-8936020A42E9}
+	EndGlobalSection
+EndGlobal
